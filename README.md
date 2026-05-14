@@ -85,7 +85,7 @@ The comparison is conducted from a **No Free Lunch (NFL) Theorem perspective**, 
    - Click the **file explorer icon** on the left panel
    - Upload `mammographic.dat`
 3. Upload and open the desired notebook:
-   - `fuzzy.ipynb` for fuzzy baseline
+   - `fuzzy_based.ipynb` for fuzzy baseline
    - `GA_and_Hybrid_Mammographic_Mass.ipynb` for GA and Hybrid models
 4. Run all cells from top to bottom
 5. Outputs include:
